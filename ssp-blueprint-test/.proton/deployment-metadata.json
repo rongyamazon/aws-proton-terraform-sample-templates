@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "b64adb8e-3eb2-4b8b-94c5-ff5258099698",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-west-2:286070956001:environment/ssp-blueprint-test",
+    "templateArn" : "arn:aws:proton:us-west-2:286070956001:environment-template/ssp-blueprint",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0"
+  }
+}
