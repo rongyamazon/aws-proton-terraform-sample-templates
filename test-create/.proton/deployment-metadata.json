@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "ebff4dff-ef81-4178-9f6e-dcaff3488ac9",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-west-2:286070956001:environment/test-create",
+    "templateArn" : "arn:aws:proton:us-west-2:286070956001:environment-template/vpc-env",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0"
+  }
+}
